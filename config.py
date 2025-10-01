@@ -1,0 +1,15 @@
+config = {'x': ,
+          'mu_max': ,
+          'Ks': ,
+          'gamma': ,
+          'S_in': ,
+          'dt': [],
+          'D': [],
+          'pipe_gap': ,
+          'scale_factor': ,
+          'upper_bound': ,
+          'lower_bound': ,
+          'mode': 'flappy_bird',
+          'truncation': True,
+          'guided': True
+          }
